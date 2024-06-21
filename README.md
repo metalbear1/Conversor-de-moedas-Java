@@ -33,6 +33,7 @@
            src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"
            alt="java"
          />
+        
 <p>Gson 2.10.1 ou superior.</p>
 
 
