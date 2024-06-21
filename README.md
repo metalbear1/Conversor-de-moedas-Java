@@ -28,6 +28,11 @@
 <h1>tecnologias</h1>
 
 <p>Java JDK 11 ou superior.</p>
+<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
+        <img
+           src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"
+           alt="java"
+         />
 <p>Gson 2.10.1 ou superior.</p>
 
 
